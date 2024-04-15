@@ -1,0 +1,5 @@
+x = input('X = ? ')
+xx = int(x)
+y = input('Y = ? ')
+yy = int(y)
+print(xx + yy)
