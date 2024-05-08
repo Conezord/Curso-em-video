@@ -6,6 +6,7 @@
 # exponenciação **
 # divisão exata //
 # resto de divisão %
+# raiz quadrada n ** (1/2) OU pow(n, (1/2))
 
 #Ordem de precedencia de contas
 # 1 - ()
