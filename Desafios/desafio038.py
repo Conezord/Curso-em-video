@@ -10,5 +10,5 @@ if num1 > num2:
     print('O primeiro valor é maior')
 elif num2 > num1:
     print('O segundo valor é maior')
-elif num1 == num2:
+elif num1 == num2: #pode colocar "else" aqui que funciona tbm
     print('Os números são iguais')
